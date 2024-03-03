@@ -1,4 +1,4 @@
-# jeffw1648
+# jw1648
 👋 Hello. I am Jeffrey (Jeff) Williams.
 I am a graduating student at American University, where I am completing my undergraduate degree track in Computer Science with a concentration in AI.
 
