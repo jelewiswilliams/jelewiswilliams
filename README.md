@@ -1,11 +1,8 @@
 # jw1648
 👋 Hello. I am Jeffrey (Jeff) Williams.
-I am a graduating student at American University, where I am completing my undergraduate degree track in Computer Science with a concentration in AI.
+I am a recent graduate of American University with a Bachelor of Science in Computer Science, concentrating in AI. 
 
-To date, I primarily work in the Python, Java, and R programming languages for a variety of projects, including software development and the development/implementation of machine learning algorithms, which align with my career interests.
-
-## Past projects & studied topics
-Throughout my degree track, I have studied numerous topics, including data structures, programming language design (includes object-oriented programming), computer systems/low-level computing, operating systems, data mining/machine learning, applications of machine learning in cybersecurity, software engineering, and computer vision.
+To date, I primarily work in the Python, Java, and R programming languages for a variety of projects, including software development and the development/implementation of machine learning algorithms. I am broadly interested in applications within cybersecurity and computer vision, but have experience exploring other domains as well.
 
 ## Hardware
 The following details the computing devices I use primarily throughout the completion of projects.
