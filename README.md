@@ -1,4 +1,3 @@
-# jw1648
 👋 Hello. I am Jeffrey (Jeff) Williams.
 I am a recent graduate of American University with a Bachelor of Science in Computer Science, concentrating in AI. 
 
