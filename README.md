@@ -1,4 +1,6 @@
-👋 Hello. I am Jeffrey (Jeff) Williams.
-I am a recent graduate of American University with a Bachelor of Science in Computer Science, concentrating in AI. 
+👋 Hello. I'm Jeffrey (Jeff) Williams.
+I'm a recent graduate of American University with a Bachelor of Science in Computer Science, with an ongoing concentration in AI. 
 
-To date, I primarily work in the Python, Java, and R programming languages for a variety of projects, including software development and the development/implementation of machine learning algorithms. I am broadly interested in applications within cybersecurity and computer vision, but have experience exploring other domains as well.
+To date, I primarily work in the Python, Java, and R programming languages for a variety of projects, including software development and the development/implementation of machine learning algorithms. Recently, computer vision has been at the center of my studies.
+
+My interests broadly focus on applications of data science within the sectors of cybersecurity, finance, and healthcare.
